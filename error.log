@@ -1,0 +1,46 @@
+2020/10/27 15:28:07 [emerg] 11074#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2020/10/27 15:28:07 [emerg] 11074#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2020/10/27 15:28:07 [emerg] 11074#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2020/10/27 15:28:07 [emerg] 11074#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2020/10/27 15:28:07 [emerg] 11074#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2020/10/27 15:28:07 [emerg] 11074#0: still could not bind()
+2020/10/27 16:13:29 [error] 2071#0: *1 open() "/usr/local/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.174.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.174.129", referrer: "http://192.168.174.129/"
+2020/10/27 16:46:22 [notice] 2395#0: signal process started
+2020/10/27 16:58:10 [notice] 2497#0: signal process started
+2020/10/27 17:04:58 [notice] 2552#0: signal process started
+2020/10/27 17:10:28 [notice] 2556#0: signal process started
+2020/10/27 17:37:32 [error] 2557#0: *24 open() "/usr/local/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.174.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.174.129", referrer: "http://192.168.174.129/"
+2020/10/27 17:45:03 [emerg] 2654#0: unexpected "}" in /usr/local/nginx/conf/nginx.conf:65
+2020/10/27 17:46:15 [emerg] 2655#0: duplicate location "/" in /usr/local/nginx/conf/nginx.conf:63
+2020/10/27 17:46:37 [notice] 2657#0: signal process started
+2020/10/27 17:47:27 [emerg] 2660#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2020/10/27 17:47:27 [emerg] 2660#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2020/10/27 17:47:27 [emerg] 2660#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2020/10/27 17:47:27 [emerg] 2660#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2020/10/27 17:47:27 [emerg] 2660#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2020/10/27 17:47:27 [emerg] 2660#0: still could not bind()
+2020/10/27 17:47:40 [notice] 2661#0: signal process started
+2020/10/27 17:57:08 [notice] 2732#0: signal process started
+2020/10/27 17:57:28 [error] 2733#0: *6 open() "/usr/local/nginx/html/Demo/a.html" failed (2: No such file or directory), client: 192.168.174.1, server: localhost, request: "GET /Demo/a.html HTTP/1.1", host: "192.168.174.129"
+2020/10/27 18:04:15 [notice] 2750#0: signal process started
+2020/10/27 18:04:44 [error] 2751#0: *11 open() "/usr/local/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.174.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.174.129", referrer: "http://192.168.174.129/"
+2020/10/27 18:08:10 [notice] 2779#0: signal process started
+2020/10/27 18:10:36 [error] 2780#0: *26 open() "/usr/local/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.174.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.174.129", referrer: "http://192.168.174.129/"
+2020/10/27 18:10:58 [error] 2780#0: *26 open() "/usr/local/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.174.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.174.129", referrer: "http://192.168.174.129/"
+2020/10/27 18:10:58 [error] 2780#0: *26 open() "/usr/local/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.174.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.174.129", referrer: "http://192.168.174.129/"
+2020/10/27 18:10:58 [error] 2780#0: *26 open() "/usr/local/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.174.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.174.129", referrer: "http://192.168.174.129/"
+2020/10/27 18:10:58 [error] 2780#0: *26 open() "/usr/local/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.174.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.174.129", referrer: "http://192.168.174.129/"
+2020/10/27 18:10:59 [error] 2780#0: *26 open() "/usr/local/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.174.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.174.129", referrer: "http://192.168.174.129/"
+2020/10/27 18:10:59 [error] 2780#0: *26 open() "/usr/local/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.174.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.174.129", referrer: "http://192.168.174.129/"
+2020/10/27 18:10:59 [error] 2780#0: *26 open() "/usr/local/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.174.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.174.129", referrer: "http://192.168.174.129/"
+2020/10/28 12:47:48 [error] 2096#0: *2 open() "/usr/local/nginx/html/biz/api/hotel/queryhotcity/2" failed (2: No such file or directory), client: 192.168.174.1, server: localhost, request: "GET /biz/api/hotel/queryhotcity/2 HTTP/1.1", host: "192.168.174.129", referrer: "http://192.168.174.129/"
+2020/10/28 12:47:48 [error] 2096#0: *3 open() "/usr/local/nginx/html/biz/api/hotel/queryhotcity/1" failed (2: No such file or directory), client: 192.168.174.1, server: localhost, request: "GET /biz/api/hotel/queryhotcity/1 HTTP/1.1", host: "192.168.174.129", referrer: "http://192.168.174.129/"
+2020/10/28 12:47:48 [error] 2096#0: *4 open() "/usr/local/nginx/html/biz/api/hotel/queryhotelfeature" failed (2: No such file or directory), client: 192.168.174.1, server: localhost, request: "GET /biz/api/hotel/queryhotelfeature HTTP/1.1", host: "192.168.174.129", referrer: "http://192.168.174.129/"
+2020/10/28 12:48:12 [error] 2096#0: *5 open() "/usr/local/nginx/html/biz/api/hotel/queryhotcity/2" failed (2: No such file or directory), client: 192.168.174.1, server: localhost, request: "GET /biz/api/hotel/queryhotcity/2 HTTP/1.1", host: "192.168.174.129", referrer: "http://192.168.174.129/"
+2020/10/28 12:48:12 [error] 2096#0: *4 open() "/usr/local/nginx/html/biz/api/hotel/queryhotcity/1" failed (2: No such file or directory), client: 192.168.174.1, server: localhost, request: "GET /biz/api/hotel/queryhotcity/1 HTTP/1.1", host: "192.168.174.129", referrer: "http://192.168.174.129/"
+2020/10/28 12:48:12 [error] 2096#0: *5 open() "/usr/local/nginx/html/biz/api/hotel/queryhotelfeature" failed (2: No such file or directory), client: 192.168.174.1, server: localhost, request: "GET /biz/api/hotel/queryhotelfeature HTTP/1.1", host: "192.168.174.129", referrer: "http://192.168.174.129/"
+2020/10/28 12:49:21 [error] 2096#0: *7 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.174.1, server: localhost, request: "GET /Demo/a.html HTTP/1.1", upstream: "http://192.168.174.129:8080/Demo/a.html", host: "192.168.174.129"
+2020/10/28 12:49:21 [error] 2096#0: *7 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.174.1, server: localhost, request: "GET /Demo/a.html HTTP/1.1", upstream: "http://192.168.174.129:8081/Demo/a.html", host: "192.168.174.129"
+2020/10/28 13:07:02 [error] 2096#0: *17 upstream timed out (110: Connection timed out) while reading response header from upstream, client: 192.168.174.1, server: localhost, request: "GET /Demo/a.html HTTP/1.1", upstream: "http://192.168.174.129:8080/Demo/a.html", host: "192.168.174.129"
+2020/10/28 13:30:05 [error] 2135#0: *6 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.174.1, server: localhost, request: "GET /Demo/a.html HTTP/1.1", upstream: "http://192.168.174.129:8081/Demo/a.html", host: "192.168.174.129"
+2020/10/28 13:30:05 [error] 2135#0: *6 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.174.1, server: localhost, request: "GET /Demo/a.html HTTP/1.1", upstream: "http://192.168.174.129:8080/Demo/a.html", host: "192.168.174.129"
